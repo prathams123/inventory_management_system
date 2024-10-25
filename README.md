@@ -1,3 +1,7 @@
+/*
+Kindly download the zip file for view purpose
+*/
+
 About the Project:
 The Inventory Management System is a JavaFX-based application developed to facilitate product tracking and stock management in real time. The system integrates a MySQL database to ensure efficient and accurate inventory management and incorporates modules for invoice generation and customer management, all within a user-friendly interface.
 
